@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guia-vital/static/css/main.2f9d4a67.css",
+    "main.js": "/guia-vital/static/js/main.d36e8933.js",
+    "index.html": "/guia-vital/index.html",
+    "main.2f9d4a67.css.map": "/guia-vital/static/css/main.2f9d4a67.css.map",
+    "main.d36e8933.js.map": "/guia-vital/static/js/main.d36e8933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9d4a67.css",
+    "static/js/main.d36e8933.js"
+  ]
+}
